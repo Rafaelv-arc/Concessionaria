@@ -10,3 +10,5 @@ Por fim, é importante lembrar que o projeto em Java focado em interface não se
 
 <strong>Para visualizar o diagrama UML e o projeto completo faça o download: https://drive.google.com/file/d/11u536YDV2BiuBPvykDObhOA6K54P-Rg4/view?usp=sharing</strong>
 
+<strong>Para o correto funcionamento abra o projeto na versão:
+Apache NetBeans IDE 15.</strong>
